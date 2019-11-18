@@ -17,7 +17,7 @@ export const urlWithParams = (urlStr, params) => {
 };
 
 export const validImgUrl = imgUrl =>
-	new Promise(async resolve => {
+	new Promise(resolve => {
 		try {
 			const img = new Image();
 			img.onload = () => {
