@@ -30,7 +30,7 @@
     "accessible-nprogress": "2.0.1",
     "colorable": "1.0.5",
     "lodash.debounce": "4.0.8",
-    "node-vibrant": "3.1.4",
+    "node-vibrant": "3.1.6",
     "vue": "2.6.10"
   },
   "devDependencies": {
